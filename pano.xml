@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" start="node1" appversion="7.0.10">
+  <panorama id="node1" hideabout="1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-7.13671" projection="4" pan="9.2562" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:09" copyright="" longitude="128.720308" author="" nodeid="node1" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="현관" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-32.92" pan="-350.57" target="" skinid="ht_node" title="복도2" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-6.88335" projection="4" pan="4.81701" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:25" copyright="" longitude="128.720308" author="" nodeid="node13" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="침실1" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-8.82" pan="-160.15" target="" skinid="ht_node" title="드레스룸" description="" url="{node15}"/>
+      <hotspot id="Point02" tilt="-21.93" pan="-167.29" target="" skinid="ht_node" title="부부욕실" description="" url="{node14}"/>
+      <hotspot id="Point03" tilt="-19.67" pan="-232.87" target="" skinid="ht_node" title="복도1" description="" url="{node11}"/>
+      <hotspot id="Point04" tilt="-25.1" pan="-329.34" target="" skinid="ht_node" title="발코니" description="" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-6.3846" projection="4" pan="-7.66502" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:28" copyright="" longitude="128.720308" author="" nodeid="node15" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="드레스룸" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-10.91" pan="-185.96" target="" skinid="ht_node" title="침실1" description="" url="{node13}"/>
+      <hotspot id="Point02" tilt="-22.67" pan="-176.38" target="" skinid="ht_node" title="부부욕실" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-5.9729" projection="4" pan="-1.97951" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:26" copyright="" longitude="128.720308" author="" nodeid="node14" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="부부욕실" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-37.15" pan="-171.02" target="" skinid="ht_node" title="드레스룸" description="" url="{node15}"/>
+      <hotspot id="Point02" tilt="-23.89" pan="-139.52" target="" skinid="ht_node" title="침실1" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.92327" projection="4" pan="-9.19454" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:29" copyright="" longitude="128.720308" author="" nodeid="node16" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="발코니" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-29.9" pan="-81.23" target="" skinid="ht_node" title="실외기실" description="" url="{node17}"/>
+      <hotspot id="Point02" tilt="-23.45" pan="-191.5" target="" skinid="ht_node" title="침실1" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.88216" projection="4" pan="-9.33702" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:31" copyright="" longitude="128.720308" author="" nodeid="node17" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="실외기실" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-37.38" pan="-284.06" target="" skinid="ht_node" title="발코니" description="" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-2.90404" projection="4" pan="-7.6605" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:22" copyright="" longitude="128.720308" author="" nodeid="node11" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="복도1" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-11.6" pan="-251.33" target="" skinid="ht_node" title="팬트리" description="" url="{node7}"/>
+      <hotspot id="Point02" tilt="-16.74" pan="-287.82" target="" skinid="ht_node" title="복도2" description="" url="{node4}"/>
+      <hotspot id="Point03" tilt="-23.99" pan="-0.47" target="" skinid="ht_node" title="거실" description="" url="{node12}"/>
+      <hotspot id="Point04" tilt="-21.52" pan="-64.65" target="" skinid="ht_node" title="침실1" description="" url="{node13}"/>
+      <hotspot id="Point05" tilt="-28.92" pan="-177.26" target="" skinid="ht_node" title="주방" description="" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-2.50938" projection="4" pan="5.87538" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:24" copyright="" longitude="128.720308" author="" nodeid="node12" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="거실" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-15.85" pan="-196.26" target="" skinid="ht_node" title="복도1" description="" url="{node11}"/>
+      <hotspot id="Point02" tilt="-9.76" pan="-128.61" target="" skinid="ht_node" title="침실1" description="" url="{node13}"/>
+      <hotspot id="Point03" tilt="-17.39" pan="-230.13" target="" skinid="ht_node" title="복도2" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.57387" projection="4" pan="0.200249" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:21" copyright="" longitude="128.720308" author="" nodeid="node10" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="주방" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-10.48" pan="-179.58" target="" skinid="ht_node" title="거실" description="" url="{node12}"/>
+      <hotspot id="Point02" tilt="-14.61" pan="-139.41" target="" skinid="ht_node" title="복도2" description="" url="{node4}"/>
+      <hotspot id="Point03" tilt="-15.17" pan="-208.35" target="" skinid="ht_node" title="침실1" description="" url="{node13}"/>
+      <hotspot id="Point04" tilt="-24.61" pan="-279.97" target="" skinid="ht_node" title="다용도실" description="" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.67887" projection="4" pan="6.26495" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:19" copyright="" longitude="128.720308" author="" nodeid="node9" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="다용도실" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-28.17" pan="-89.05" target="" skinid="ht_node" title="주방" description="" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.2542" projection="4" pan="4.35525" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:13" copyright="" longitude="128.720308" author="" nodeid="node4" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="복도2" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point02" pan="-352.82" target="" description="" url="{node6}" distance="184.684" tilt="-16.93" skinid="ht_node" title="침실2"/>
+      <hotspot id="Point03" tilt="-17.68" pan="-8.18" target="" skinid="ht_node" title="복도1" description="" url="{node11}"/>
+      <hotspot id="Point04" tilt="-32.38" pan="-110.81" target="" skinid="ht_node" title="현관" description="" url="{node1}"/>
+      <hotspot id="Point05" tilt="-17.25" pan="-187.04" target="" skinid="ht_node" title="공용욕실1-1" description="" url="{node2}"/>
+      <hotspot id="Point01" tilt="-29.62" pan="-234.72" target="" skinid="ht_node" title="침실3" description="" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.21893" projection="4" pan="4.21291" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.831794" description="" altitude="78.05" customnodeid="" datetime="2024:08:31 10:05:54" copyright="" longitude="128.722047" author="" nodeid="node6" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="침실2" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" pan="-161.91" target="" description="" url="{node11}" distance="184.684" tilt="-15.53" skinid="ht_node" title="복도1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.21874" projection="4" pan="4.21291" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:15" copyright="" longitude="128.720308" author="" nodeid="node5" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="침실3" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-22.91" pan="-150.46" target="" skinid="ht_node" title="복도2" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.21874" projection="4" pan="4.21291" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:10" copyright="" longitude="128.720308" author="" nodeid="node2" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="공용욕실1-1" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-21.34" pan="-262.54" target="" skinid="ht_node" title="공용욕실1-2" description="" url="{node3}"/>
+      <hotspot id="Point02" tilt="-29.45" pan="-177.4" target="" skinid="ht_node" title="복도2" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.21874" projection="4" pan="4.21291" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:12" copyright="" longitude="128.720308" author="" nodeid="node3" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="공용욕실1-2" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-36.95" pan="-99.52" target="" skinid="ht_node" title="공용욕실1-1" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1472" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" overlap="1" width="1472">
+      <level predecode="0" height="1472" preload="0" width="1472"/>
+      <level predecode="0" height="736" preload="0" width="736"/>
+      <level predecode="1" height="368" preload="1" width="368"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.21874" projection="4" pan="4.21291" fov="129.808"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="140" fovstereographic="330" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" info="" latitude="35.832672" description="" altitude="138.13" customnodeid="" datetime="2024:08:31 15:35:16" copyright="" longitude="128.720308" author="" nodeid="node7" tags="2024년 08월 31일 (14시 30분) 경산 펜타힐즈푸르지오 201동 3203호" title="팬트리" comment="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" border="1" background="1" borderradius="1" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-29.05" pan="-172.82" target="" skinid="ht_node" title="복도1" description="" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0"/>
+    <autorotate delay="10.00" nodedelay="0.00" horizonfromdefview="0" startloaded="0" useanimation="0" speed="0.020" enabled="1" nodefilter="" returntohorizon="0.000" noderandom="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" contextvr="1" contextprojections="0" invertwheel="0" speedwheel="1" hideabout="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" tags="" description="201동 3203호" title="경산 펜타힐즈푸르지오2차" comment="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
